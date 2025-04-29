@@ -1,0 +1,5 @@
+bool heater_on
+bool heater_off
+int32 desired_temperature
+---
+bool control_confirmed
